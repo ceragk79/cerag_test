@@ -1,0 +1,12 @@
+Personel
+    id113id
+    adMelissaad
+    soyadToroslusoyad
+    dogumTarihi02/17/1983dogumTarihi
+    dogumYeriIstanbuldogumYeri
+    emailmelissa@example.comemail
+    cepTel5323456789cepTel
+    aktifCalisantrueaktifCalisan
+    adresLeylaAtakanCad.KarabasMah.Kocaeli-Izmıtadres
+    ünvanOperasyonMüdürüünvan
+Personel
